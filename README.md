@@ -11,7 +11,7 @@ My preferred settings
 
 ```sh
 
-curl -Lks http://bit.do/init-dot | bash -s https://githut.com/samulip/dotfiles.git
+curl -Lks http://bit.do/init-dot | bash -s https://github.com/samulip/dotfiles.git
 
 ```
 
